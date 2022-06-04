@@ -4,8 +4,6 @@ Hi 👋 My name is Amin Rezaei
 Fullstack Developer
 -------------------
 
-* 🌍  I'm based in Iran
-
 <a href="https://www.twitter.com/it_is_amin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/it_is_amin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
