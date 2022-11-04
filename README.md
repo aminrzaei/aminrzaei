@@ -1,11 +1,10 @@
-Hi 👋 My name is Amin Rezaei
+Hi 👋 My name is Amin Rezaei - Fullstack Developer
 ============================
 
-Fullstack Developer
-<!-- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) -->
-
 <a href=#><img src="contribution.svg"></a>
+
 ----------------------------------------------------------------------------
+
 ### Skills
 
 <p align="left">
