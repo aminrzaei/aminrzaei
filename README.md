@@ -7,7 +7,7 @@
 
 </div>
 
-> I like learning new skills and developing scalable applications. My passion for programming
+> I like learning new skills and developing scalable applications.
 
 ```bash
 $ npx itisamin@latest
