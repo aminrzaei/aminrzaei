@@ -1,6 +1,3 @@
-![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header.png#gh-dark-mode-only)
-![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header-light.png#gh-light-mode-only)
-
 <div align="center" >
 
 ## Hi there 👋, I'm Amin!
