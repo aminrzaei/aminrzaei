@@ -7,7 +7,7 @@
 > I like learning new skills and developing scalable applications.
 
 ```bash
-$ npx itisamin@latest
+npx itisamin@latest
 ```
 
 <div align="center">
