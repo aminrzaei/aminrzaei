@@ -14,10 +14,6 @@ npx itisamin@latest
 
 <a href="https://www.linkedin.com/in/aminrezaei76/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
-[![Watch the video](thumbnail.png)](https://youtube.com/watch?v=VIDEO_ID)
-
-**Best practice:** Use GIFs for short demos (under 30 seconds) or link to external platforms for longer content. GitHub has a 10MB file size limit for direct uploads in comments, and 100MB for Git LFS.
-
 </div>
 
 ---
