@@ -14,9 +14,7 @@ npx itisamin@latest
 
 <a href="https://www.linkedin.com/in/aminrezaei76/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
-<video height="600" width="600"><source src="https://lh7-us.googleusercontent.com/kFVkoQQGndQ5qbBw75TQUvWalD_YmC8hDYJN_i6S-OOk6sSu4LxU7-0UfWfQI_L4g1suNWZK-fhEcS39Dd-_22FmtWYQp0nFXNQyEvGcUFMniPGgQntjk_fxvE0yp-VHvEdw3yQwDGG8TsnJvlB824A"/></video>
-
-<video class="rp-absolute rp-bottom-0 rp-left-0 rp-right-0 rp-top-0 rp-h-full rp-w-full rp-bg-black" playsinline="" type="application/vnd.apple.mpegurl"><source src="blob:https://www.aparat.com/fd3ecb6a-7463-4116-84cd-d7ec746e43cf" type=""></video>
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/xym11jk/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 
 </div>
