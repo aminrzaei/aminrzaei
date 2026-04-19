@@ -14,7 +14,7 @@ npx itisamin@latest
 
 <a href="https://www.linkedin.com/in/aminrezaei76/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
-<iframe src="https://www.aparat.com/video/video/embed/videohash/xym11jk/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<div id="11288943256"><script type="text/JavaScript" src="https://www.aparat.com/embed/xym11jk?data[rnddiv]=11288943256&data[responsive]=yes"></script></div>
 
 
 </div>
