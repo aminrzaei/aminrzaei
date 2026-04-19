@@ -14,7 +14,7 @@ npx itisamin@latest
 
 <a href="https://www.linkedin.com/in/aminrezaei76/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
-<video><source src="https://lh7-us.googleusercontent.com/kFVkoQQGndQ5qbBw75TQUvWalD_YmC8hDYJN_i6S-OOk6sSu4LxU7-0UfWfQI_L4g1suNWZK-fhEcS39Dd-_22FmtWYQp0nFXNQyEvGcUFMniPGgQntjk_fxvE0yp-VHvEdw3yQwDGG8TsnJvlB824A"/></video>
+<video height="600" width="600"><source src="https://lh7-us.googleusercontent.com/kFVkoQQGndQ5qbBw75TQUvWalD_YmC8hDYJN_i6S-OOk6sSu4LxU7-0UfWfQI_L4g1suNWZK-fhEcS39Dd-_22FmtWYQp0nFXNQyEvGcUFMniPGgQntjk_fxvE0yp-VHvEdw3yQwDGG8TsnJvlB824A"/></video>
 
 
 
